@@ -2,7 +2,7 @@
 
 Se realizará una aplicación sobre el video juego Clonium.
 
-![https://user-images.githubusercontent.com/30413024/45918854-87a5e180-be95-11e8-93e1-2e844d27f841.jpeg]
+![](https://user-images.githubusercontent.com/30413024/45918854-87a5e180-be95-11e8-93e1-2e844d27f841.jpeg)
 
 HERRAMIENTAS GENERALES
 
