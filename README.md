@@ -22,6 +22,8 @@ HERRAMIENTAS GENERALES
 
 ## Objetivo del proyecto
 
+- Se juegue de dos jugadores
+- Jugar contra la máquina
 
 [⬆ Volver a Index](https://github.com/CristobalSandoval23/Clonium#indice)
 
