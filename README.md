@@ -1,14 +1,13 @@
-# Nombre Proyecto
+# App CLONIUM
 
-"Describir el motivo del proyecto"
-"Agradecer a las inspiraciones o ayudas"
+Se realizará una aplicación sobre el video juego Clonium.
 
-
+![https://user-images.githubusercontent.com/30413024/45918854-87a5e180-be95-11e8-93e1-2e844d27f841.jpeg]
 
 HERRAMIENTAS GENERALES
 
 - Para la UML: StarUML
-- Para la gestión: Excel => [Libro de gestion]()
+- Para la gestión: Excel => [Libro de gestion](https://docs.google.com/spreadsheets/d/1m8LlsGqnUsGGA5FCvwc5dEFNDmbtvVZH/edit?usp=drive_link&ouid=111878516840183913599&rtpof=true&sd=true)
 
 
 [⬆ Volver a Index]()
