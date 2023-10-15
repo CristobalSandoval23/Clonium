@@ -4,7 +4,10 @@
 "Agradecer a las inspiraciones o ayudas"
 
 
- > [!IMPORTANT] HERRAMIENTAS GENERALES
+>[!IMPORTANT] HERRAMIENTAS GENERALES
+>
+> 1. Para la UML: StarUML
+>2. Para la gestión: Excel => [Libro de gestion]()
 
 
 [⬆ Volver a Index]()
